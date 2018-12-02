@@ -1,0 +1,572 @@
+----------------------------------------------
+CRASH: Mon Apr  2 22:11:25 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map _server_start
+----------------------------------------------
+CRASH: Mon Apr  2 22:15:41 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map sp_campaign_portal
+----------------------------------------------
+CRASH: Mon Apr  2 22:19:15 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 32 +log on +map choose_campagne
+----------------------------------------------
+CRASH: Wed Apr 11 17:42:11 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Wed Apr 11 18:42:15 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Apr 12 00:08:24 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Apr 12 00:25:08 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Apr 12 02:52:28 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Apr 12 03:28:01 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Apr 12 03:31:46 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 00:45:43 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 02:02:28 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 02:17:46 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 02:23:55 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 02:54:00 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 03:05:38 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 03:15:46 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 03:31:19 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 14:46:13 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 20 22:45:18 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Apr 21 02:25:45 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Apr 22 00:02:59 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Apr 22 01:34:34 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Apr 22 01:51:34 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Apr 22 02:02:58 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Apr 27 23:19:04 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Tue May  1 03:03:04 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 20 +log on +map choose_campagne
+----------------------------------------------
+CRASH: Thu May  3 02:55:59 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu May  3 02:56:09 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat May  5 01:45:51 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun May  6 03:22:24 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun May  6 05:03:19 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun May  6 05:04:06 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun May  6 05:11:49 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun May  6 19:45:25 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon May  7 20:45:32 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 20 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Wed May 30 19:58:11 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Jun  4 23:09:34 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jun  8 02:29:06 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Jun 10 05:19:04 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Jun 10 19:05:04 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jun 16 23:23:34 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Jun 18 01:39:45 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Tue Jun 19 03:14:08 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Wed Jun 20 02:07:30 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jun 29 02:32:53 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jun 29 02:33:03 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jun 29 02:33:13 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jun 29 02:33:24 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jun 29 02:33:34 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jun 29 02:41:16 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jun 29 02:41:26 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Jul  5 00:42:37 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Jul  5 20:07:54 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Jul  5 20:10:20 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Jul  5 20:22:36 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Jul  9 06:40:56 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 14 22:23:37 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Jul 15 21:45:11 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Jul 16 00:55:11 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 20 23:19:11 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Jul 22 00:40:01 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 27 20:52:52 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 27 22:02:37 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 28 22:46:04 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Jul 30 15:08:20 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Aug  5 23:44:36 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Wed Aug  8 02:01:24 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Aug 11 02:25:49 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Aug 11 20:35:53 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Aug 13 04:09:37 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Aug 16 03:23:34 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Aug 16 22:19:24 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Aug 18 21:52:24 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Aug 19 02:59:04 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:28:45 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:28:55 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:29:06 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:29:16 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:29:26 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:29:36 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:29:47 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:29:57 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:30:07 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:30:17 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:30:27 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:30:37 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Sep  2 05:31:10 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Sep  7 22:42:59 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Sep  8 17:11:36 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:45:50 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:46:00 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:46:11 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:46:21 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:46:31 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:46:41 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:46:51 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:47:01 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:47:12 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:47:22 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:47:32 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:47:42 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:48:39 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:48:50 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:49:00 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:49:10 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:49:20 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:49:31 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Sep 27 21:49:41 UTC 2018
+Start Line: ./svends_i686 -console -port 27016 +maxplayers 32 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Tue Nov 20 16:47:45 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Nov 22 05:44:34 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Nov 23 17:55:42 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Nov 24 00:28:43 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Nov 24 00:35:40 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Nov 24 04:54:57 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Nov 24 04:58:40 UTC 2018
+Start Line: ./svends_i686 -console -port 27015 +maxplayers 12 +log on +map choose_campagne
+End of crash report
+----------------------------------------------
